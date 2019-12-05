@@ -116,16 +116,16 @@ void anadir_proceso(struct task_struct *pcb){
   else if(strcmp(pcb->comm,"largo")==0){
     pcb->prioridad = 4;
   }
-  else if(strcmp(pcb->comm,"pagos")==0){
+  else if(strcmp(pcb->comm,"pago")==0){
     pcb->prioridad = 3;
   }
-  else if(strcmp(pcb->comm,"reservas")==0){
+  else if(strcmp(pcb->comm,"reserva")==0){
     pcb->prioridad = 2;
   }
-  else if(strcmp(pcb->comm,"anulaciones")==0){
+  else if(strcmp(pcb->comm,"anulacion")==0){
     pcb->prioridad = 2;
   }
-  else if(strcmp(pcb->comm,"consultas")==0){
+  else if(strcmp(pcb->comm,"consulta")==0){
     pcb->prioridad = 1;
   }
   else{
