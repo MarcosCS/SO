@@ -2,7 +2,6 @@
  *  Pablo Ausin Roman
  *  Daniel Sanchez Louzan
  *  Marcos Cordeiro
- *  
  */
 /*****************************************************************/
 /***************** SISTEMAS OPERATIVOS 2019 **********************/

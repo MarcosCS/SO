@@ -1,10 +1,10 @@
 /*
- *  Ausín Román,Pablo
- *  Arias Cárdenas,Andrés Felipe
- *  Sánchez Louzán,Daniel
+ *  Pablo Ausin Roman
+ *  Daniel Sanchez Louzan
+ *  Marcos Cordeiro
  */
 /*****************************************************************/
-/***************** SISTEMAS OPERATIVOS 2018 **********************/
+/***************** SISTEMAS OPERATIVOS 2019 **********************/
 /*****************************************************************/
 
 #ifndef _GESTION_H
