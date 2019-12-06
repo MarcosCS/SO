@@ -1,10 +1,11 @@
 /*
- *  Ausín Román,Pablo
- *  Arias Cárdenas,Andrés Felipe
- *  Sánchez Louzán,Daniel
+ *  Pablo Ausin Roman
+ *  Daniel Sanchez Louzan
+ *  Marcos Cordeiro
+ *  
  */
 /*****************************************************************/
-/***************** SISTEMAS OPERATIVOS 2018 **********************/
+/***************** SISTEMAS OPERATIVOS 2019 **********************/
 /*****************************************************************/
 
 #include <linux/taquilla.h>
@@ -15,7 +16,7 @@
 
 /*****************************************************************/
 /*funcion que sera llamada desde scheduler_tick(),es una funcion */
-/*del kernel dentro core.c que es llamada por el sistema cada hz */
+/*del kernel dentro core.c que es llamada por el sistema cada 1 hz -> */
 /*1s por lo que la nuestra calculara el tiempo de cada proceso   */
 /*de nuestro sistema cada 1s,matara los proceso que superan T_MAX*/
 /*****************************************************************/
